@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CD Musicale on Orbite Musicali</title>
+    <link>http://orbitemusicali.github.io/tags/cd-musicale/</link>
+    <description>Recent content in CD Musicale on Orbite Musicali</description>
+    <image>
+      <url>http://orbitemusicali.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://orbitemusicali.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 15:47:39 +0100</lastBuildDate><atom:link href="http://orbitemusicali.github.io/tags/cd-musicale/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Suburbs - Arcade Fire</title>
+      <link>http://orbitemusicali.github.io/posts/arcade-fire-suburbs/</link>
+      <pubDate>Sat, 03 Dec 2022 15:47:39 +0100</pubDate>
+      
+      <guid>http://orbitemusicali.github.io/posts/arcade-fire-suburbs/</guid>
+      <description>Crescere con gli Arcade Fire</description>
+    </item>
+    
+  </channel>
+</rss>
