@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WE on Orbite Musicali</title>
+    <link>https://eugeniorss.github.io/orbitemusicali.github.io/tags/we/</link>
+    <description>Recent content in WE on Orbite Musicali</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eugeniorss.github.io/orbitemusicali.github.io/tags/we/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WE - Arcade Fire</title>
+      <link>https://eugeniorss.github.io/orbitemusicali.github.io/posts/arcade-fire-we/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eugeniorss.github.io/orbitemusicali.github.io/posts/arcade-fire-we/</guid>
+      <description>Tornare sulla retta via</description>
+    </item>
+    
+  </channel>
+</rss>
